@@ -31,6 +31,7 @@ int main() {
 
   cout << "Liczba znaków '" << characterToCount << "' w pliku '" << filename << "': " << characterCount << endl;
   cout << "Aktualizacja";
+  cout << "Aktualizacja2";
 
   return 0;
 }
