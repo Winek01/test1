@@ -4,5 +4,6 @@ public class Main
 		System.out.println("Hello World");
 		System.out.println("Aktualizacja");
 		System.out.println("Aktualizacja2");
+		System.out.println("Aktualizacja3");
 	}
 }
